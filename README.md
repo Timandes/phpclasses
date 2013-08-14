@@ -1,4 +1,4 @@
-phpclasses
+PHPClasses
 ==========
 
-PHP常用的类
+存放PHP常用的类。
